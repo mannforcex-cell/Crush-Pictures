@@ -1,1 +1,3 @@
 # Crush-Pictures
+
+"bash" run
